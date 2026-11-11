@@ -1,2 +1,18 @@
 # mayablackpel-project
-Learning and building in public
+
+Personal projects and experiments.
+
+## About
+
+I'm learning Python and JavaScript, and exploring open source.
+
+## Getting started
+
+```bash
+git clone https://github.com/mayablackpel/mayablackpel-project.git
+cd mayablackpel-project
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
